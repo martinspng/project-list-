@@ -1,7 +1,7 @@
 alert("you scored 7/10")
 
 function result() {
-alert("your score is:"+score);
+
 var score=0;
 if(document.getElementById('a').checked)
      {
@@ -20,6 +20,7 @@ if(document.getElementById('a').checked)
         {
             score++;
         }
+     alert("your score is:"+score);
     
     
 }
