@@ -1,5 +1,3 @@
-alert("you scored 7/10")
-
 function result() {
 
 var score=0;
